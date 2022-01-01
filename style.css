@@ -1,0 +1,54 @@
+.topnav {
+	overflow: hidden;
+	background-color: #333;
+	position:sticky;
+	top: 0;
+    width: 100%;
+  }
+  
+  .topnav a {
+	float: left;
+	color: #f2f2f2;
+	font-family: cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+  
+  .topnav a:hover {
+	background-color: #ffffff;
+	color: black;
+    cursor: pointer;
+  }
+
+  .topnav-right {
+	float: right;
+  }
+  body
+  {
+text-align: center;
+background-image:-o-linear-gradient(darkblue,aqua,blue,lightblue,aquamarine);
+  }
+  #jasmat{
+	  width: 370px;
+	  height: 330px;
+	  border-radius: 50%;
+	  border-width: 10px;
+	  border-style: double;
+  }
+  .btn-info{
+	  font-size: large;
+  }
+  #like{
+	  height: 50px;
+	  width: 50px;
+	  background-color: aqua;
+  }
+  #picture{
+	  height: 300px;
+	  width: 300px;
+  }
+  
+ 
+
